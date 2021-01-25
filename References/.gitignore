@@ -1,0 +1,7 @@
+## .gitignore for References sub-repository of EIS repository
+
+# BasicsOfEIS_AppNote.pdf     #In case want to ignore, uncomment (delete #)
+BiomedEIS_Frank2005_Comment.pdf
+plasmonicNanoantenna.pdf
+plasmonicNanoantenna_Commented.pdf
+uElectrodesBioSens_Comment_Borkholder1998Dissertation.pdf
